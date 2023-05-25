@@ -1,0 +1,5 @@
+코드 단순화 진행
+unil 패키지 추가 --> system.out.print 편하게 하려고 만들었음
+
+Disp(display)클래스
+- 출력 전용 클래스
